@@ -54,7 +54,7 @@ Before running the project, ensure you have the following installed:
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/Quantum-Tokenization.git
-   cd quantum-tokenization
+   cd Quantum-Tokenization
    ```
 
 2. Install dependencies:
@@ -196,8 +196,8 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 For questions or feedback, feel free to reach out:
 
-- Email: your.email@example.com
-- GitHub: [@yourusername](https://github.com/yourusername)
+- Email: saatvikshashankshrivastava@gmail.com
+- GitHub: [@yourusername](https://github.com/SaatvikSS)
 ---
 
 This README provides a comprehensive overview of your **Quantum Tokenization** project. It includes all the necessary information for users and contributors to understand, install, and use the system effectively. Let me know if you'd like to customize or expand any section further!
