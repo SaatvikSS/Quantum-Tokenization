@@ -197,7 +197,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 For questions or feedback, feel free to reach out:
 
 - Email: saatvikshashankshrivastava@gmail.com
-- GitHub: [@yourusername](https://github.com/SaatvikSS)
+- GitHub: [@SaatvikSS](https://github.com/SaatvikSS)
 ---
 
 This README provides a comprehensive overview of your **Quantum Tokenization** project. It includes all the necessary information for users and contributors to understand, install, and use the system effectively. Let me know if you'd like to customize or expand any section further!
