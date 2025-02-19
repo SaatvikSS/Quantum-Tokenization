@@ -1,8 +1,3 @@
-# Quantum-Tokenization
-Below is a professional and well-structured `README.md` file for your project on **Quantum Tokenization**. This README provides an overview of the project, its purpose, setup instructions, usage examples, and additional details.
-
----
-
 # Quantum Tokenization Project
 
 ## Overview
