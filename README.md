@@ -5,8 +5,6 @@ Below is a professional and well-structured `README.md` file for your project on
 
 # Quantum Tokenization Project
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-
 ## Overview
 
 This project implements **Quantum-Safe Tokenization**, a cutting-edge approach to securing sensitive data using quantum-resistant cryptographic algorithms. The goal is to replace sensitive information (e.g., names, phone numbers, credit card numbers) with tokens that are irreversible without the decryption key and resistant to attacks from both classical and quantum computers.
